@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300&display=swap');
+
+* {
+    font-family: 'Roboto Mono', monospace;
+}
+
+axisWhite line {
+    stroke-opacity: 0.5;
+}
+
+.axisWhite path {
+    stroke-opacity: 0.5;
+}
+
+.axisWhite text {
+    fill: white;
+}
+
+.axisBlack text {
+    fill: rgb(0, 0, 0);
+}
+
+.lineBlue {
+    fill: none;
+    stroke: steelblue;
+    stroke-width: 2px;
+}
+
+.linePink {
+    fill: none;
+    stroke: magenta;
+    stroke-width: 2px;
+}
+
+#xAxis .tick line {
+    visibility: hidden;
+}
+
+.selected {
+    fill: rgb(119, 9, 9) !important;
+}
+
+.swatch {
+    fill-opacity: .30;
+}
+
+.container {
+    text-align: center;
+}
+
+footer {
+    background-image: url('../covid.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: large;
+}
+
+header {
+    background-image: url('../covid.jpg');
+    background-size: cover;
+    background-position: center center;
+}
+
+.world-map {
+    border-radius: 10px;
+    text-align: center;
+}
+
+.income-linechart {
+    border-radius: 10px;
+    text-align: center;
+}
+
+.cases-linechart {
+    border-radius: 10px;
+    text-align: center;
+}
+
+.mini-linechart {
+    border-radius: 10px;
+    text-align: center;
+  }
+
+.vax-linechart {
+    border-radius: 10px;
+}
+
+.rounded-link {
+    border-radius: 10px;
+    padding: 10px 20px;
+    display: inline-block;
+}
+
+.rounded-button {
+    border-radius: 10px;
+    padding: 10px 20px;
+  }
+
+
+
+
+
+
