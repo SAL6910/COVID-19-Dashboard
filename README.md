@@ -11,13 +11,13 @@ This project is a COVID-19 Dashboard created using HTML and D3.js v7. The dashbo
     <b>Dashboard</b>
 </p>
 
-<img src="SS/Screenshot (8).png" alt="Main">
+<img src="SS/1.png" alt="Main">
 
 
-<img src="SS/Screenshot (2).png" alt="Main">
+<img src="SS/2.png" alt="Main">
 
 
-<img src="SS/Screenshot (3).png" alt="Main">
+<img src="SS/3.png" alt="Main">
 
 
 ## Installation
