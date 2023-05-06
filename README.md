@@ -33,4 +33,4 @@ Open the index.html file in a web browser (preferably Chrome).
 
 ## Demo
 
-Try the application: https://restaurantshub.000webhostapp.com/
+Try the application: 
